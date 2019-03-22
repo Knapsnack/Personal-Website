@@ -1,6 +1,6 @@
 :root {
   /*colors*/
-  --color1: #ffffff; /*light*/
+  --color1: #dde4e9; /*light*/
   --color2: #2c1813; /*dark*/
   --color3: #d63b95; /*highlight*/
   --color4: #fec444; /*hover*/
@@ -8,7 +8,7 @@
 }
 
 body {
-  font: 15px/1.5 Arial, Helvetica, sans-serif;
+  font: 15px/1.5 Verdana, helvetica, sans-serif;
   padding: 0;
   margin: 0;
   background-color: var(--color1);
@@ -204,4 +204,9 @@ footer {
       width:100%;
       margin-bottom:5px;
   }
+}
+
+/*IN CONSTRUCTION*/
+#newsletter{
+    display: none;
 }
