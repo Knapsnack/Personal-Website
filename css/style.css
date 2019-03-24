@@ -1,10 +1,10 @@
 :root {
   /*colors*/
-  --color1: #dde4e9; /*light*/
-  --color2: #2c1813; /*dark*/
-  --color3: #d63b95; /*highlight*/
-  --color4: #fec444; /*hover*/
-  --color5: #cccccc; /*light-lite*/
+  --color1: #cddfd5; /*light*/
+  --color2: #171e25; /*dark*/
+  --color3: #d1c021; /*highlight*/
+  --color4: #d00000; /*hover*/
+  --color5: #adbeb5; /*light-lite*/
 }
 
 body {
@@ -90,7 +90,7 @@ header a:hover {
 /*Showcase*/
 #showcase {
   min-height: 400px;
-  background: url("../img/water.jpg") no-repeat 0 -500px;
+  background: url("../img/ripples.jpg") no-repeat 0 -500px;
   text-align: center;
   color: #ffffff;
 }
@@ -101,7 +101,7 @@ header a:hover {
   margin-bottom: 10px;
 }
 
-showcase p {
+#showcase p {
   font-size: 20px;
 }
 
