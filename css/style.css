@@ -1,10 +1,10 @@
 :root {
   /*colors*/
-  --color1: #cddfd5; /*light*/
+  --color1: #cdd8df; /*light*/
   --color2: #171e25; /*dark*/
   --color3: #d1c021; /*highlight*/
   --color4: #d00000; /*hover*/
-  --color5: #adbeb5; /*light-lite*/
+  --color5: #adb9be; /*light-lite*/
 }
 
 body {
@@ -89,14 +89,14 @@ header a:hover {
 
 /*Showcase*/
 #showcase {
-  min-height: 400px;
+  min-height: 350px;
   background: url("../img/ripples.jpg") no-repeat 0 -500px;
   text-align: center;
   color: #ffffff;
 }
 
 #showcase h1 {
-  margin-top: 100px;
+  margin-top: 125px;
   font-size: 55px;
   margin-bottom: 10px;
 }
