@@ -1,5 +1,6 @@
 
 1.3 Notes:
+
     Increased website security:
         website is now secure using HTTPS protocal.
     
