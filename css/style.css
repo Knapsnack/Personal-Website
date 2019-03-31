@@ -35,6 +35,7 @@ ul {
   color: black;
 }
 
+/* Dark */
 .dark {
   padding: 15px;
   background: var(--color2);
@@ -42,6 +43,19 @@ ul {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+.dark a:link{
+  color: white;
+}
+.dark a:visited {
+  color: var(--color3);
+}
+.dark a:hover {
+  color: var(--color4);
+}
+.dark a:active {
+  color: var(--color5);
+}
+
 
 /* Header */
 header {

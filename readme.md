@@ -1,5 +1,7 @@
-#Website
-This is my first attempt to build a website. Good luck me.
 
-#Github
-Repost because I want to make sure I have Github on Lockdown.
+1.3 Notes:
+    Increased website security:
+        website is now secure using HTTPS protocal.
+    
+    Added resume: 
+        Resume available in PDF and Word Document form.
